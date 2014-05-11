@@ -1,13 +1,15 @@
 sheetsee-starter
 ================
 
+![ss](https://raw.github.com/jlord/sheetsee-cache/master/img/sheetsee-03.png)
+
 Fork and get started with Sheetsee.js! 
 
-## Step 1: Fork
+### Step 1: Fork
 
 Fork this repo (see top right of page)! Now you have a copy on your account.
 
-## Step 2: Change the Repo's Name
+### Step 2: Change the Repo's Name
 
 You probably aren't building something called 'sheetsee-starter', so go into your fork's settings (right menubar) and rename.
 
