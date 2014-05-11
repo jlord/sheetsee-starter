@@ -28,13 +28,11 @@ To get your spreadsheet's key, first *set the share setting* to 'anyone with a l
 
 **Now you've got your site hooked up!**
 
-### Go to Town
+### Step 4: Go to Town
 
 Now it's time to add the elements you want on your site to the `index.html` file. You can edit the file directly from GitHub.com (so no need to install Git or text editor, unless you want to). When you've made your changes, click the commit button at the bottom of the edit page.
 
-- HTML, Templates and JS [snippets](snippets.md) for tables & maps
-- Add your CSS to `css/style.css`
-- Add any other JS files to `js/`
+#### HTML, Templates and JS [snippets](snippets.md) for tables & maps.
 
 ### Visit your site!
 

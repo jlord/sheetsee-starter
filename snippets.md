@@ -1,6 +1,6 @@
 # Snippets
 
-Here you'll find code snippets to get you going on some basic Sheetsee elements.
+Here you'll find code snippets to get you going on some basic Sheetsee elements. The sections correspond to the section comments in `index.html`: HTML, Template, JavaScript.
 
 In the JavaScript portion of the `index.hmtl` you have two `<script>` tags which contain a call to Tabletop.js to fetch your spreadsheet data and then a send that data too function when it's done, this is called the _callback_. It is inside of this callback function, named `myData`, that you'll add the bits of JavaScript in the snippets. For example, if the snippet says `console.log("Hello Y'all!")` then your `index.html`'s section should become this:
 
