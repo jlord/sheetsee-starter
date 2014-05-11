@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script type="text/javascript" src="js/tabletop1.3.4.js"></script>
+    <script type="text/javascript" src="js/sheetsee.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title> </title>
+  </head>
+  <body>
+    <!-- HTML -->
+    <div id="placeholder"></div>
+
+    <!-- Templates -->
+    <script id="placeholder" type="text/html">
+      // template HTML here
+    </script>
+
+    <!-- JavaScript -->
+    <script type="text/javascript">
+      document.addEventListener('DOMContentLoaded', function() {
+          var URL = "YOURSPREADSHEETSKEYHERE"
+          Tabletop.init( { key: URL, callback: myData, simpleSheet: true } )
+      })
+      function myData(data) {
+          All the sheetsee things you want to do!
+      }
+    </script>
+  </body>
+</html>
