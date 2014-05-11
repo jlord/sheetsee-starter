@@ -28,4 +28,16 @@ To get your spreadsheet's key, first *set the share setting* to 'anyone with a l
 
 ### Go to Town
 
+Now it's time to add the elements you want on your site to the `index.html` file. You can edit the file directly from GitHub.com (so no need to install Git or text editor, unless you want to). When you've made your changes, click the commit button at the bottom of the edit page.
+
+- HTML, Templates and JS [snippets](snippets.md) for tables & maps
+- Add your CSS to `css/style.css`
+- Add any other JS files to `js/`
+
+### Visit your site!
+
+Once you've commited changes, check out your site at **github.io/yourusername/theforksname**.
+
+WOW!
+
 
